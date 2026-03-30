@@ -1,35 +1,47 @@
 # AI Prompt Library 📚
 
-A curated collection of production-ready AI prompts for various use cases.
+> 高质量提示词库 - High-Quality Prompt Library
 
-## Features
+精选高质量AI提示词，提升你的 productivity。
 
-- ✅ 100+ curated prompts
-- ✅ Categories: Coding, Writing, Analysis, Creative
-- ✅ Copy-paste ready
-- ✅ Monthly updates
+## ✨ Features
 
-## Usage
+- 🎯 **精选提示词** - 覆盖各行业场景
+- 🔄 **持续更新** - 定期添加新提示词
+- 📝 **分类清晰** - 易于查找和使用
+- 🌐 **多语言支持** - 中英文提示词
+
+## 🚀 Quick Start
 
 ```python
-from ai_prompt_lib import get_prompt
+from ai_prompt_lib import PromptLibrary
 
-# Get a coding prompt
-prompt = get_prompt("code_review")
+lib = PromptLibrary()
+prompt = lib.get("写作助手")
 print(prompt)
 ```
 
-## Categories
+## 📦 Installation
 
-1. **Coding** - Code review, debugging, refactoring prompts
-2. **Writing** - Blog posts, emails, social media
-3. **Analysis** - Data analysis, market research
-4. **Creative** - Stories, brainstorming
+```bash
+pip install ai-prompt-lib
+```
 
-## License
+## 🤝 Contributing
 
-MIT License
+Issues and PRs welcome!
 
-## Author
+## 📄 License
 
-SuperMemory Team - mars94823@gmail.com
+MIT
+
+---
+
+## ❤️ Sponsor / 赞助
+
+如果你觉得这个项目有帮助，请考虑赞助支持：
+
+- [PayPal](https://paypal.me/mars94823)
+- [GitHub Sponsors](https://github.com/sponsors/mars82311111)
+
+感谢你的支持！
