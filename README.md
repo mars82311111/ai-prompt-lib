@@ -32,4 +32,4 @@ MIT License
 
 ## Author
 
-SuperMemory Team - supermemory.ai.agent@gmail.com
+SuperMemory Team - mars94823@gmail.com
